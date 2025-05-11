@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Nicolle Chagas, tenho 24 anos e sou do interior de SP. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia.
+Me chamo Nicolle Chagas, tenho 24 anos e sou do interior de SP. Atualmente, estou no último semestre do curso de Análise e Desenvolvimento de Sistemas pela USF-SP. Sou apaixonada por criar coisas novas através da tecnologia!
 
 ---
 
